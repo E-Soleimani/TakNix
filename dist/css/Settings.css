@@ -6,3 +6,20 @@
     list-style: none;
     text-decoration: none;
 }
+
+@font-face {
+    font-family:'YekanBakh-Regular';
+    src: url('../fonts/Yekan-Bakh-Regular.ttf') format('truetype');
+}
+@font-face {
+    font-family:'YekanBakhMedium-latinNum';
+    src: url('../fonts/YekanBakhMedium-latinNum.ttf') format('truetype');
+}
+@font-face {
+    font-family:'YekanBakhBold-latinNum';
+    src: url('../fonts/YekanBakhBold-latinNum.ttf') format('truetype');
+}
+@font-face {
+    font-family:'YekanBakh-Fat';
+    src: url('../fonts/YekanBakh-Fat.ttf') format('truetype');
+}
